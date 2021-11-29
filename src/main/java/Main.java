@@ -49,6 +49,7 @@ public class Main extends AbstractScript
 	@Override
 	public int onLoop()
 	{
-		return 0;
+		// loop through tree
+		return tree.onLoop();
 	}
 }

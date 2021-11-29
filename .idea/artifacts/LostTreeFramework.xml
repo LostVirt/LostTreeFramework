@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LostTreeFramework">
+    <output-path>$USER_HOME$/LostClientEnhanced/Scripts</output-path>
+    <root id="archive" name="LostTreeFramework.jar">
+      <element id="module-output" name="LostTreeFramework" />
+    </root>
+  </artifact>
+</component>
