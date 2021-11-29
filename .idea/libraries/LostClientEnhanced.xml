@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LostClientEnhanced">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LostOprs/runelite-client/build/libs/LostClientEnhanced.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
